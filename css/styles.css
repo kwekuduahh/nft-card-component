@@ -107,7 +107,7 @@ hr {
     display: flex;
     column-gap: 16px;
     align-items: center;
-    height: clamp(6dvh, 36px, 10dvh);
+    height: clamp(4dvh, 36px, 10dvh);
 }
 
 .card-footer img {
