@@ -75,7 +75,6 @@ hr {
     border-radius: 10px;
     transform: translate(0%, -100%);
     transition: .5s ease;
-    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -107,7 +106,7 @@ hr {
     display: flex;
     column-gap: 16px;
     align-items: center;
-    height: clamp(4dvh, 36px, 10dvh);
+    height: clamp(4dvh, 36px, 8dvh);
 }
 
 .card-footer img {
@@ -118,6 +117,7 @@ hr {
 }
 
 .attribution {
+    display: none;
     font-size: 11px;
     text-align: center;
 }
