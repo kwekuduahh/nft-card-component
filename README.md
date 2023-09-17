@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kwekuduahh/nft-card-component)
-- Live Site URL: [Add live site URL here](https://nft-asset-card-component.netlify.app/)
+- Solution URL: [GitHub Repo](https://github.com/kwekuduahh/nft-card-component)
+- Live Site URL: [NFT Card Component Live](https://nft-asset-card-component.netlify.app/)
 
 ## My process
 
@@ -93,7 +93,7 @@ I will keep exploring creating responsive and reusable code in future projects.
 
 ### Useful resources
 
-- [resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me with css clamp() and the hover effect on the image.
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me with css clamp() and the hover effect on the image.
 
 ## Author
 
